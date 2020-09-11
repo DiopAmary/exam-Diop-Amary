@@ -7,7 +7,6 @@ body{
     height: 40px;
 }
 
-#maPhoto{
-    height: auto;
-    width: 100%;
+#carouselExampleIndicators, #moi{
+    margin-bottom: 50px;
 }
